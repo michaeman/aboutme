@@ -11,6 +11,11 @@
 // about supported directives.
 //
 //= require jquery
+//= require cbpAnimatedHeader
+//= require classie
+//= require freelancer
+//= require contact_me
+//= require jqBootstrapValidation
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
